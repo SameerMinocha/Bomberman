@@ -3,6 +3,18 @@ h2{
 }
 button{
     margin-left: 48.3%;
+    background:none;
+    color: brown;
+    padding: 5px 10px;
+    border: 2px solid brown;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover{
+    background-color: brown;
+    color: #fff;;
 }
 #container {
     margin: 20px auto;
