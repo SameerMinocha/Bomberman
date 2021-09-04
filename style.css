@@ -21,4 +21,6 @@ button{
     border-radius: 3px;
     cursor: pointer;
 } 
-
+.grid:hover{
+    background-color: rgba(121, 112, 112, 0.795) ;
+}
